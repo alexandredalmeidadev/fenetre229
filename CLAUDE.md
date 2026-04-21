@@ -1,9 +1,12 @@
+@AGENTS.md
+
 # CLAUDE.md — Fenêtre 229
 
 ## Git
 
 - **user.email:** alexandrepvdalmeida@gmail.com
 - **user.name:** Alexandre d'ALMEIDA
+- **Remote:** https://github.com/alexandredalmeidadev/fenetre229.git
 - **Branche de dev:** `dev`
 - **Branche principale:** `main`
 
